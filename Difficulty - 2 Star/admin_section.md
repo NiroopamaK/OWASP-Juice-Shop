@@ -1,4 +1,4 @@
-# OWASP Juice Shop – Admini Section Challenge
+# OWASP Juice Shop – Admin Section Challenge
 
 In this challenge of OWASP Juice Shop, the objective was to discover and access the hidden administration panel. This challenge highlights weaknesses in access control where sensitive functionality is exposed through discoverable client-side routes.
 
