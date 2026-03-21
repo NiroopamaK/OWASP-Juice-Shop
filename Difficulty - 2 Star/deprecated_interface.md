@@ -4,7 +4,7 @@
 The objective of this challenge was to identify and exploit a deprecated interface within the application. During exploration of OWASP Juice Shop, the `/complain` page stood out as a potential target. This feature appeared outdated, especially since newer versions of the application promote a chatbot-based support system, suggesting that the complaint form may no longer be actively maintained.
 
 Further inspection using browser Developer Tools revealed that the complaint form included a file upload functionality. Reviewing the `main.js` file showed that the uploader enforced client-side restrictions on file types, allowing only specific MIME types such as `application/pdf`, `application/zip`, and `text/xml`. This indicated a possible weakness, as client-side validation alone is insufficient for secure file handling.
-![deprecated](https://github.com/user-attachments/assets/10bd77e5-c660-4f13-b62b-afa9b0b0ba27)
+<img width="2784" height="224" alt="image" src="https://github.com/user-attachments/assets/a3a2cc70-0fce-4a78-abf1-4ab2fa065b02" />
 
 ---
 
