@@ -1,4 +1,4 @@
-# OWASP Juice Shop – Bonus Payload Challenge
+# OWASP Juice Shop – Bully Chatbot Challenge
 
 In this challenge of OWASP Juice Shop, the objective was to interact with the support chatbot and manipulate it into providing a coupon code. This challenge focuses on testing edge cases in automated response handling. The application includes a support chatbot accessible from the support or contact page. The chatbot is designed to respond to common queries, including requests for coupons, but initially refuses or provides generic responses. 
 
