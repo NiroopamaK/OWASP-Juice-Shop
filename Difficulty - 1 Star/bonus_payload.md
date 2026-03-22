@@ -31,10 +31,6 @@ This demonstrates that XSS is not limited to simple alert pop-ups, attackers can
 - Web browser
 
 ---
-## Tools used
-- Web browser
-
----
 ## What this teaches about security
 - XSS can inject complex content: Attackers can embed full applications or third-party services, not just scripts.
 - DOM-based vulnerabilities are dangerous: Unsanitized input directly inserted into the DOM creates serious risks.
