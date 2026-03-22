@@ -13,7 +13,10 @@ Upon inspecting the challenge, it was observed that the application generates QR
 
 3. **Access the Modified URL**  
   Opened the following in the browser:  
-  `http://192.168.123.111:3000/redirect?to=https://www.blockchain.com/explorer/addresses/btc/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm`
+```
+http://192.168.123.111:3000/redirect?to=https://www.blockchain.com/explorer/addresses/btc/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm
+
+```
 
 <img width="1193" height="714" alt="image" src="https://github.com/user-attachments/assets/4fc3e408-2d64-4305-b780-386303e579e9" />
 
