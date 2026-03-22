@@ -17,9 +17,10 @@ Located the file acquisition.md, which appeared to contain confidential business
 
 3. Download the File Using curl
 Used the command line to download the file directly:
+```
  curl http://192.168.123.111:3000/ftp/acquisition.md -o acquisition.md
-
-4. Review the File
+```
+5. Review the File
 Opened the downloaded file and confirmed it contained confidential information about planned company acquisitions.
 
 ---
